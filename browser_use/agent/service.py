@@ -9,7 +9,7 @@ from datetime import datetime
 from typing import Any, Optional, Type, TypeVar
 
 from dotenv import load_dotenv
-from langchain_anthropic import ChatAnthropic
+# from langchain_anthropic import ChatAnthropic
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_core.messages import (
 	AIMessage,
